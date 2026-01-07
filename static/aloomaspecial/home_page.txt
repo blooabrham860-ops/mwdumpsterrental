@@ -1,0 +1,49 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 30px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">I'm facing a huge cleanout and I'm overwhelmed. Where do I start?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The work is always done one step at a time. Don't look at the whole mountain. Pick one corner of one room. Start there. The act of filling the dumpster, even with just a few items, builds momentum. You can do this.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is something people often forget when renting a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">They forget to look up. Before we deliver, make sure the spot you’ve chosen is free of any low-hanging tree branches or power lines. Our trucks need vertical clearance to place your roll off dumpster safely.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I put anything in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can put most things in—construction debris, furniture, yard waste, household junk. However, hazardous materials like paint, chemicals, asbestos, and batteries cannot go in. This is part of doing the work responsibly, and we can help you find the right way to dispose of those items.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How full can I fill the container?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can fill it up to the top rail, but not over it. The debris must be level with the top so we can safely tarp and transport the load. Overfilling can create a safety hazard and will require you to offload some material before we can haul it away.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I protect my driveway?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We are committed to respecting your property. While our drivers are exceptionally careful, you can lay down sheets of plywood in the spot where the dumpster will be placed. This creates an extra barrier and is a great way to ensure your driveway remains pristine.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is a "cheaper" dumpster rental always better?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Often, a suspiciously cheap dumpster rental comes with hidden fees, late deliveries, or poor service. We believe in transparent, fair roll off dumpster rental prices. Our price reflects a service you can count on, which is invaluable when you're on a tight project schedule.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
